@@ -1,0 +1,1 @@
+stenv\Scripts\activate && streamlit run app.py
